@@ -1,4 +1,14 @@
 {
+	"name": "fcc-learn-npm-package-json",
+ 	"author": "Bruna",
+  	"description": "This project is one of the challenges for the back-end certification",
+  	"keywords": ["challenge", "certification", "freecodecamp"],
+  	"license": "MIT",
+  	"version": "1.0.0",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	{
 	"author": "Bruna",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
